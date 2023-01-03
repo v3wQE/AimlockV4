@@ -1,7 +1,7 @@
-getgenv().RecurringPoint = "LowerTorso"
-getgenv().Hitbox = "LowerTorso"
+getgenv().RecurringPoint = "HumanoidRootPart"
+getgenv().Hitbox = "HumanoidRootPart"
 getgenv().Keybind = "q"
-getgenv().AimbotStrengthAmount = 0.1175
+getgenv().AimbotStrengthAmount = 0.099
 getgenv().PredictionAmount = 4.158
 getgenv().Radius = 25
 getgenv().UsePrediction = true
