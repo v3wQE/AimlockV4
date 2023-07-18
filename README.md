@@ -1,7 +1,7 @@
 getgenv().RecurringPoint = "HumanoidRootPart"
 getgenv().Hitbox = "HumanoidRootPart"
 getgenv().Keybind = "q"
-getgenv().AimbotStrengthAmount = 0.085
+getgenv().AimbotStrengthAmount = 0.0576
 getgenv().PredictionAmount = 4.158
 getgenv().Radius = 25
 getgenv().UsePrediction = true
